@@ -19,7 +19,7 @@
            
            <p>You have successfully logout. See you next time.. </p>
            Want to re-login then <a href="index.jsp">clickMe</a>
-        </p>
+        
 
     </body>
 </html>
